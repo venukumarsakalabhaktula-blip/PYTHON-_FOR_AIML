@@ -30,3 +30,10 @@ enter the radius of the circle: 6
 area and circumference (113.09733552923255, 37.69911184307752)
 
 
+# output of Print_name
+Enter your name: venu
+Your name is: venu
+
+
+
+
