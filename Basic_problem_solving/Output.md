@@ -8,3 +8,9 @@ enter your temperature in c: 100
 100 c= 373.15 k
 enter your temperature in k: 100
 100 k= -173.14999999999998 c
+
+# output of Area_of_rectangle
+enter the length of rectangle: 5
+enter the breadth of rectangle: 7
+35
+
