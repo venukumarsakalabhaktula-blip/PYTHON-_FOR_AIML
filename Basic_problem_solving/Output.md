@@ -34,6 +34,17 @@ area and circumference (113.09733552923255, 37.69911184307752)
 Enter your name: venu
 Your name is: venu
 
+# output of studentmarks_calculation
+Enter marks of subject 1: 90
+Enter marks of subject 2: 40
+Enter marks of subject 3: 30
+Enter marks of subject 4: 90
+Enter marks of subject 5: 100
+
+----- Result -----
+Total Marks = 350
+Average Marks = 70.0
+Percentage = 70.0 %
 
 
 
