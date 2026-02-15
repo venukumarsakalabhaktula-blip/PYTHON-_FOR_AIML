@@ -14,3 +14,9 @@ enter the length of rectangle: 5
 enter the breadth of rectangle: 7
 35
 
+# output of triangle_angle_and_type
+enter the first angle: 60
+enter the second angle: 60
+it is isosceles triangle
+
+
