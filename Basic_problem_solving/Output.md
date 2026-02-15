@@ -19,4 +19,10 @@ enter the first angle: 60
 enter the second angle: 60
 it is isosceles triangle
 
+# output of Days_conversion
+enter the no days: 444
+years 1
+months 14
+weeks 63
+
 
