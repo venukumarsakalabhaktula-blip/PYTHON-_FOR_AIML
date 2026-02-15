@@ -25,4 +25,8 @@ years 1
 months 14
 weeks 63
 
+# output of Area_and_perimeter_of_circle
+enter the radius of the circle: 6
+area and circumference (113.09733552923255, 37.69911184307752)
+
 
