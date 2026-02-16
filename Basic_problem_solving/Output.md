@@ -61,5 +61,11 @@ enter the annual interest rate(%): 3
 4 16417082402000.0
 5 4941541803002000.0
 
+# output of vertically_thrown_particle
+Enter initial velocity (m/s): 20
+Time taken to touch the ground: 4.08 seconds
+
+
+
 
 
