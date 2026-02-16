@@ -97,6 +97,10 @@ No selected
 Enter y/Y for Yes or n/N for No: f
 Invalid input
 
+# output of taxi_fare_calculator
+Enter distance travelled (km): 80
+Total fare: Rs. 456.0
+
 
 
 
