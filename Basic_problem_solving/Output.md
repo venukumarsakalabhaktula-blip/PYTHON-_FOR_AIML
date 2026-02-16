@@ -79,6 +79,11 @@ Enter value of b: 10
 Value of x: 0
 
 
+# output of conditional_expression pass or fail
+Enter marks: 70
+Passed
+
+
 
 
 
