@@ -87,6 +87,15 @@ Passed
 Enter marks: 80
 Grade: B
 
+# output of yes_no_selection
+Enter y/Y for Yes or n/N for No: y
+Yes selected
+
+Enter y/Y for Yes or n/N for No: n
+No selected
+
+Enter y/Y for Yes or n/N for No: f
+Invalid input
 
 
 
