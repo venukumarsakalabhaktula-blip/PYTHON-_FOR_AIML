@@ -83,6 +83,11 @@ Value of x: 0
 Enter marks: 70
 Passed
 
+# output of grade_calculator
+Enter marks: 80
+Grade: B
+
+
 
 
 
