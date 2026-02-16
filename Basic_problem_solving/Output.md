@@ -65,6 +65,9 @@ enter the annual interest rate(%): 3
 Enter initial velocity (m/s): 20
 Time taken to touch the ground: 4.08 seconds
 
+# output of bouncing balldistance
+enter the height:30
+total distance travelled untill third touch 39.375
 
 
 
