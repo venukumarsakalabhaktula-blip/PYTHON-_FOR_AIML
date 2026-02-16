@@ -46,5 +46,11 @@ Total Marks = 350
 Average Marks = 70.0
 Percentage = 70.0 %
 
+# output of asterik_pattern
+*
+***
+*****
+*******
+
 
 
