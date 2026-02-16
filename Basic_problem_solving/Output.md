@@ -52,5 +52,14 @@ Percentage = 70.0 %
 *****
 *******
 
+# output of fixed_deposit_interest
+enter the principal amount :2000
+enter the annual interest rate(%): 3
+1 602000.0
+2 181202000.0
+3 54541802000.0
+4 16417082402000.0
+5 4941541803002000.0
+
 
 
