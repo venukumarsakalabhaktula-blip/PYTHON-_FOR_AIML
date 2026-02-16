@@ -73,6 +73,11 @@ total distance travelled untill third touch 39.375
 Enter a positive integer: 10
 Sum from 1 to 10 is: 55
 
+# output of conditional_expression
+Enter value of a: 8
+Enter value of b: 10
+Value of x: 0
+
 
 
 
