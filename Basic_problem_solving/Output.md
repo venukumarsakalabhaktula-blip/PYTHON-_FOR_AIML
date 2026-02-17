@@ -104,6 +104,11 @@ Invalid input
 Enter distance travelled (km): 80
 Total fare: Rs. 456.0
 
+# output of Factors_of_numbers
+Enter a number: 80
+Factors of 80 are:
+1 2 4 5 8 10 16 20 40 80 
+
 
 
 
