@@ -20,10 +20,13 @@ enter the second angle: 60
 it is isosceles triangle
 
 # output of Days_conversion
-enter the no days: 444
-years 1
-months 14
-weeks 63
+Enter number of days: 700
+Years: 1
+Months: 11
+Weeks: 0
+Remaining Days: 5
+
+
 
 # output of Area_and_perimeter_of_circle
 enter the radius of the circle: 6
